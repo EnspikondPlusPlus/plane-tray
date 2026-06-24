@@ -1,0 +1,8 @@
+[package]
+name = "plane-tray"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tao = "0.25"
+tray-icon = "0.19"
